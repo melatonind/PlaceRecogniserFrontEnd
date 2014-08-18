@@ -2572,3 +2572,8 @@ ol.commentlist li:first-child {
 	font-size: 35px;
 	font-family: 'audiowide';
 }
+
+.logo-text {
+	font-family: 'audiowide';
+	font-size: 20px;
+}
