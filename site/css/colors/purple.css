@@ -1,4 +1,4 @@
-/* Purple Color #6633ff & #6633ff */
+/* Purple Color #41AEF2 & #41AEF2 */
 
 .btn:focus, .btn-2, 
 ul.why li:before, 
@@ -14,16 +14,16 @@ ul.why li:before,
 .cl-effect-21 .active a::before,
 .cl-effect-21 .active a::after,
 .post-date a.date i, .service-icon i  {
-    background: #6633ff;
+    background: #41AEF2;
 }
 
 .bg-color {
-    background: #6633ff;
+    background: #41AEF2;
 	color: #fff;
 }
 
 .subscribe-btn {
-	background: #6633ff;
+	background: #41AEF2;
 	cursor: pointer;
 }
 
@@ -32,38 +32,38 @@ div.content-box.big div.content-box-info p, .content-box-info h4 {
 }
 
 .about-wrap {
-    background: #6633ff no-repeat fixed center center;
+    background: #41AEF2 no-repeat fixed center center;
 }
 
 
 .subscribe-btn:focus, .subscribe-btn:hover, 
 .ch-item .ch-info-front {
-	background: #6633ff;
+	background: #41AEF2;
 	color: white;
 }
 
 
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, .pager li > a:hover, .pager li > a:focus {
-    background-color: #6633ff;
+    background-color: #41AEF2;
     color: #fff;
 }
 
 
 .spinner {
-	border-top-color: #6633ff;
+	border-top-color: #41AEF2;
 }
 
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
-	border-color: #6633ff;
+	border-color: #41AEF2;
 }
 
 .btn-2:hover, .btn-2:active, .btn-2 {
-	box-shadow: 0 4px #6633ff;
+	box-shadow: 0 4px #41AEF2;
 }
 
 
 .author-content, #cn-tabs .service, .comment-des, .contact-box {
-	border-bottom-color:#6633ff;
+	border-bottom-color:#41AEF2;
 }
 
 a, a:hover, a:focus, 
@@ -84,5 +84,5 @@ a, a:hover, a:focus,
 .fun,
 .btn-1:hover,
 .btn-1:active {
-    color: #6633ff;
+    color: #41AEF2;
 }
