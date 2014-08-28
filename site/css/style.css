@@ -1078,6 +1078,10 @@ div.content-box.big div.content-box-info p {
     background: url('../img/plx3.jpg') 50% 0 no-repeat fixed;
 }
 
+.service-wrap {
+    background: rgba(37, 39, 88, 0.9);
+}
+
 
 .parallax-overlay {
     /* background: rgba(22, 26, 72, 0.6); */
@@ -1552,6 +1556,7 @@ div.content-box.big div.content-box-info p {
 /* Team member*/
 
 .team-wrap .container {
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 
@@ -1797,6 +1802,10 @@ div.content-box.big div.content-box-info p {
 /*-------------------------------------------------------*/
 /* 21. Contact form section
 /*-------------------------------------------------------*/
+
+.contact-form .container {
+    padding-bottom: 70px;
+}
 
 #contact input {
     margin-bottom: 20px;
